@@ -4,7 +4,7 @@ int main()
 {
     int page_size, num_pages, num_frames;
     int page_table[50];
-    int logical_address, page_number, offset, physical_address;
+    int page_number, offset, physical_address;
 
     printf("Enter page size (in bytes): ");
     scanf("%d", &page_size);
