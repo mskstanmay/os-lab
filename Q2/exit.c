@@ -3,5 +3,5 @@
 
 int main() {
     printf("Program ending now.\n");
-    exit(0);   // same as return 0;
+    exit(0);  
 }
