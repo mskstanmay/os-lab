@@ -70,6 +70,7 @@ int main() {
         printf("P%d ", safeseq[i]);
     printf("\n");
 
+        return 0;
 }
 
 
